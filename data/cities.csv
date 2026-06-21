@@ -1,0 +1,41 @@
+city,country,lat,lon,region
+New York,USA,40.7128,-74.0060,Americas
+Los Angeles,USA,34.0522,-118.2437,Americas
+Mexico City,Mexico,19.4326,-99.1332,Americas
+Sao Paulo,Brazil,-23.5505,-46.6333,Americas
+Buenos Aires,Argentina,-34.6037,-58.3816,Americas
+Lima,Peru,-12.0464,-77.0428,Americas
+Toronto,Canada,43.6511,-79.3470,Americas
+London,UK,51.5072,-0.1276,Europe
+Paris,France,48.8566,2.3522,Europe
+Berlin,Germany,52.5200,13.4050,Europe
+Madrid,Spain,40.4168,-3.7038,Europe
+Rome,Italy,41.9028,12.4964,Europe
+Moscow,Russia,55.7558,37.6173,Europe
+Athens,Greece,37.9838,23.7275,Europe
+Istanbul,Turkey,41.0082,28.9784,Europe
+Cairo,Egypt,30.0444,31.2357,Africa
+Lagos,Nigeria,6.5244,3.3792,Africa
+Nairobi,Kenya,-1.2921,36.8219,Africa
+Johannesburg,South Africa,-26.2041,28.0473,Africa
+Casablanca,Morocco,33.5731,-7.5898,Africa
+Dubai,UAE,25.2048,55.2708,Middle East
+Riyadh,Saudi Arabia,24.7136,46.6753,Middle East
+Tehran,Iran,35.6892,51.3890,Middle East
+New Delhi,India,28.6139,77.2090,Asia
+Mumbai,India,19.0760,72.8777,Asia
+Chennai,India,13.0827,80.2707,Asia
+Kolkata,India,22.5726,88.3639,Asia
+Dhaka,Bangladesh,23.8103,90.4125,Asia
+Beijing,China,39.9042,116.4074,Asia
+Shanghai,China,31.2304,121.4737,Asia
+Tokyo,Japan,35.6762,139.6503,Asia
+Seoul,South Korea,37.5665,126.9780,Asia
+Bangkok,Thailand,13.7563,100.5018,Asia
+Jakarta,Indonesia,-6.2088,106.8456,Asia
+Manila,Philippines,14.5995,120.9842,Asia
+Singapore,Singapore,1.3521,103.8198,Asia
+Karachi,Pakistan,24.8607,67.0011,Asia
+Sydney,Australia,-33.8688,151.2093,Oceania
+Melbourne,Australia,-37.8136,144.9631,Oceania
+Auckland,New Zealand,-36.8485,174.7633,Oceania
